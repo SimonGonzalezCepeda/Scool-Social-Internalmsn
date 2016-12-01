@@ -23,7 +23,7 @@ $ composer require SimonGonzalezCepeda/Scool-Social-Internalmsn
 ## Usage
 
 ``` php
-$skeleton = new Acacha-Scool\Social\Internalmsn();
+$skeleton = new AcachaScool\Social\Internalmsn();
 echo $skeleton->echoPhrase('Hello, League!');
 ```
 

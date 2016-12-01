@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Acacha-Scool\\Social\\Internalmsn\\": "src"
+            "AcachaScool\\Social\\Internalmsn\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Acacha-Scool\\Social\\Internalmsn\\": "tests"
+            "AcachaScool\\Social\\Internalmsn\\": "tests"
         }
     },
     "scripts": {
